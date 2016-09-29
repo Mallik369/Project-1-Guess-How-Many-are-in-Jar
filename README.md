@@ -15,7 +15,7 @@ Jar Game needs to Fill Jar Randomly
 
                 Method : public void fill ( )
    
-**2.  As a winner of the game, I should know how many attempts it took me to get to the right answer, so that I am encouraged to beat my score.
+**2.  As a winner of the game, I should know how many attempts it took me to get to the right answer, so that I am encouraged to beat my score.**
 
     • Program keeps track of tries and informs player of correct amount of tries in the format of:
           You got it in X attempt(s).
