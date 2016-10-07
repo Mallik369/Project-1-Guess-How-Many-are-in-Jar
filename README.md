@@ -1,7 +1,7 @@
 # Project-1-Guess-How-Many-are-in-Jar
 ## Jar Game
 
-Jar Game is Console Application developed to play to Guess How many in Jar Game between user and Computer. This Product is developed as a learning Process to build Java Console Application and Apply Java Objects Skills.
+Jar Game is Console Application developed to play to Guess How many in Jar Game between user and Computer. This Product is developed to Apply, Test and Verify  Skills Acuqired during Team Tree House Java Web Developement Tech Degree Program and review by mentor and fellow Students.
 
 Jar Game Application is build considering following User Stories
 
